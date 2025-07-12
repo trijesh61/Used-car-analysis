@@ -4,7 +4,7 @@
 This project presents an Exploratory Data Analysis (EDA) of a comprehensive dataset of used cars listed on Craigslist.org across the United States. The dataset includes a wide range of features such as price, condition, manufacturer, vehicle type, location data (latitude/longitude), and more.
 
 ## 📌 About the Dataset
-
+ 
 - **Source**: [Craigslist.org](https://www.craigslist.org)
 - **Author**: Collected via custom web scraper 
 - **Description**: The dataset aggregates thousands of used car listings from Craigslist, scraped every few months. It includes important variables for analysis like:
