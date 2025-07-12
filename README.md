@@ -6,7 +6,7 @@ This project presents an Exploratory Data Analysis (EDA) of a comprehensive data
 ## 📌 About the Dataset
 
 - **Source**: [Craigslist.org](https://www.craigslist.org)
-- **Author**: Collected via custom web scraper
+- **Author**: Collected via custom web scraper 
 - **Description**: The dataset aggregates thousands of used car listings from Craigslist, scraped every few months. It includes important variables for analysis like:
   - `price`
   - `condition`
